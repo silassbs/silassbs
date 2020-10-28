@@ -21,3 +21,5 @@ Estou sempre em constante aprendizado, atualmente estudando a Stack Javascript, 
 já tendo trabalhado com plataformas como: Core Commerce, Tray Shop, Rakuten, Ezcommerce.
 
 Além da Criação e manutenção de Landing pages em HTML, CSS, JS, Jquery, Bootstrap e com experiência em disparos e análise de relatórios e performance de CRM nas diversas plataformas de email marketing como: Eloqua (Oracle), Dinamize, certificado Advanced Extreme User pela All in Marketing Cloud (Locaweb). 
+
+PORTIFOLIO: https://silassbs.github.io/portifolio/
